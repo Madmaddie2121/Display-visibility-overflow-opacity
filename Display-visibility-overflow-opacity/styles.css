@@ -1,0 +1,108 @@
+#mainHeading{
+    font-size: large;
+}
+#imgPic{
+width: 500px;
+height: 500px;
+display: inline-block;
+}
+#para{
+    display: inline-block;
+    width: 743px;
+    height: 500px ;
+    overflow: auto;
+    font-size: 1.2rem;
+
+}
+#na1{
+    background-color: brown;
+    width: 400px;
+    height: 100px;
+
+}
+#na2{
+    background-color: blue;
+    height: 80px;
+    width: 500px;
+}
+#na3{ 
+    background-color: green;
+    width: 600px;
+    height: 60px;
+}
+#n1{
+    display: inline;
+    background-color: brown;
+}
+#n2{
+    display: inline;
+    background-color: blue;
+}
+#n3{ 
+    display: inline;
+    background-color: green;
+}
+#none{
+    display: none;
+    width: 400px;
+    height: 400px;
+
+}
+#para1{
+    display: inline-block;
+    width: 400px;
+    height: 400px;
+    background-color: brown;
+}
+#e1{ 
+    background-color: blue;
+}
+#e2{ 
+    background-color: blueviolet;
+}
+#e3{ 
+    background-color: brown;
+}
+#r1{ 
+    background-color: blue;
+    display: block;
+}
+#r2{ 
+    background-color: blueviolet;
+    display: block;
+}
+#r3{ 
+    background-color: brown;
+    display: block;
+}
+#p1{
+    display: inline-block;
+    width: 500px;
+    height: 500px;
+    overflow: auto;
+}
+#p2{ 
+    display: inline-block;
+    width: 500px;
+    height: 500px;
+    overflow: scroll;
+}
+#p3{ 
+    display: inline-block;
+    width: 500px;
+    height: 500px;
+    overflow: hidden;
+}
+#img1{
+    opacity:0.3;
+    width: 300px;
+
+}
+#img2{
+    visibility: hidden;
+    width: 300px;
+}
+#img3{
+    visibility: visible;
+    width: 300px;
+}
